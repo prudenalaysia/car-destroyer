@@ -1,6 +1,8 @@
 # car-destroyer
 The car destroyer game is a simple game, it requires two players to play. The objective of the game is for the person who is playing the rock to destroy the car and the person playing the car is to avoid the rock at all times. The car destroyer game has two characters, a rock and a car. The rock uses the keys A, D, and S, A is to move to the left, D is to move the right, and the S key is to move down. The car uses the left and right arrow keys, the left arrow is to move to the left and the right arrow is to move to the right.
 
+(There is a screen recording of the gameplay in the files)
+
 Here are some screenshots of the game itself:
 
 
